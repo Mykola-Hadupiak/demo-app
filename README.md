@@ -1,4 +1,4 @@
-[DEMO]https://mykola-hadupiak.github.io/demo-app/
+[DEMO](https://mykola-hadupiak.github.io/demo-app/)
 
 # Getting Started with Create React App
 
